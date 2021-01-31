@@ -1,0 +1,2 @@
+# Text-Mining-
+The dataset user_reviews.csv contains 100,000 user reviews of smartphones or their accessories. This data has been scraped from multiple websites, and all variables in the dataset are self-explanatory. In addition to the user reviews, user scores (out of 10) are also available. It is assumed that a user will recommend a given product to others if the score given by that user is >= 8. Otherwise, it is assumed that the user will not recommend the product to others.  
